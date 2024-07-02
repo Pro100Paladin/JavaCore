@@ -8,6 +8,7 @@ public class CaesarCode {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите текст: ");
         String code = scanner.nextLine();
+        System.out.println("Введите ключ: ");
         int key = scanner.nextInt();
 
         char[] symbol = new char[code.length()];
@@ -26,6 +27,7 @@ public class CaesarCode {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите текст: ");
         String code = scanner.nextLine();
+        System.out.println("Введите ключ дешифровки: ");
         int key = scanner.nextInt() * -1;
 
         char[] symbol = new char[code.length()];

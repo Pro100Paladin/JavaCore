@@ -1,4 +1,4 @@
-import lecture2.CaesarCode;
+import seminar2.CaesarCode;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.

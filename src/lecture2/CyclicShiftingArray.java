@@ -1,8 +1,6 @@
-package lecture1;
+package lecture2;
 
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
 import java.util.Scanner;
 
 public class CyclicShiftingArray {

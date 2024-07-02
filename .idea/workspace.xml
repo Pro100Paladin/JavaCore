@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c628fb1-5767-40cc-86f0-3bd6b4b92ec6" name="Changes" comment="" />
+    <list default="true" id="ea5b71ee-9b59-4b5a-96b3-1326f4cfadf0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCore.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture1/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture1/Decorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture1/OtherClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture1/OtherClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture1/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture2/CaesarCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/CaesarCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture2/CyclicShiftingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2/CyclicShiftingArray.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="2ieVtNowNEBWETBVulVRsuI572n" />
+  <component name="ProjectId" id="2igpplIjd7GHWiSGICmZNX7gHtY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,30 +34,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/evgeniiokhrimenko/Desktop/учеба/Java/JavaCore/JavaCore/src/Main.java"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8c628fb1-5767-40cc-86f0-3bd6b4b92ec6" name="Changes" comment="" />
-      <created>1719851246832</created>
+      <changelist id="ea5b71ee-9b59-4b5a-96b3-1326f4cfadf0" name="Changes" comment="" />
+      <created>1719922259288</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1719851246832</updated>
+      <updated>1719922259288</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

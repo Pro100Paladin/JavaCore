@@ -1,4 +1,4 @@
-package lesson2.hw2;
+package lesson2.homeWork2;
 
 /**
  * 2. Написать функцию, возвращающую разницу между самым большим и

@@ -16,7 +16,6 @@ public class CyclicShiftingArray {
             array[i] = arr;
         }
         System.out.println(Arrays.toString(array));
-//        for (int i = 0; )
     }
 }
 

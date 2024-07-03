@@ -1,7 +1,5 @@
-package seminar2.hw2;
+package lesson2.hw2;
 
-
-import java.util.Arrays;
 
 /**
  * 1. Написать метод, возвращающий количество чётных элементов массива.

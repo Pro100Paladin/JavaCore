@@ -1,4 +1,4 @@
-package seminar2.hw2;
+package lesson2.hw2;
 
 
 /**

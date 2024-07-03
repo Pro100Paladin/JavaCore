@@ -1,8 +1,8 @@
-package seminar2.hw2;
+package lesson2.hw2;
 
-import static seminar2.hw2.Task1.countEvens;
-import static seminar2.hw2.Task2.difference;
-import static seminar2.hw2.Task3.truth;
+import static lesson2.hw2.Task1.countEvens;
+import static lesson2.hw2.Task2.difference;
+import static lesson2.hw2.Task3.truth;
 
 public class Main {
     public static void main(String[] args) {

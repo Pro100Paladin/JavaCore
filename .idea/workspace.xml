@@ -8,20 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea5b71ee-9b59-4b5a-96b3-1326f4cfadf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homeWork3/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homeWork3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homeWork3/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/homeWork3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/animals/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/management/AnimalMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/seminar3/management/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson2/homeWork2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson2/homeWork2/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +60,7 @@
       <recent name="$PROJECT_DIR$/src/seminar2/hw2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lesson3.homeWork3.Main">
+  <component name="RunManager" selected="Application.lesson3.seminar3.Main">
     <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
       <deployment type="docker-compose.yml">
         <settings />
@@ -153,8 +140,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lesson3.homeWork3.Main" />
         <item itemvalue="Application.lesson3.seminar3.Main" />
+        <item itemvalue="Application.lesson3.homeWork3.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.lesson2.homeWork2.Task2" />

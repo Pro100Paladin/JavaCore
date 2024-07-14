@@ -26,7 +26,7 @@ public class Main {
                 { people[0], items[0], 1 },
                 { people[1], items[1], -1 },
                 { people[0], items[2], 150 },
-                { people[1], new Item("Flower", 10), 1 }, // no item
+                { people[1], new Item("Flower", 10), 1 },
                 { new Customer("Fedor", 40, "+3-444-555-66-77", Gender.MALE), items[3], 1 },
         };
         int capacity = 0;
